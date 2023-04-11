@@ -112,6 +112,8 @@ int xa = 40,ya = 1,
         Console.SetCursorPosition(x, y);
         Console.WriteLine("+");
         count++;
+        
+        
 
     }
 
